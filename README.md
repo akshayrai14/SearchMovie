@@ -1,4 +1,29 @@
-# Getting Started with Create React App
+
+The project looks like this :-
+
+<h2>Search bar :</h2> 
+
+![image](https://github.com/akshayrai14/SearchMovie/assets/109916723/b33a68a0-0725-4f82-a799-19a9bc7a1067)
+
+<h2>Working of the Search function :</h2>
+
+![image](https://github.com/akshayrai14/SearchMovie/assets/109916723/56d55009-8298-4b6c-a17a-1461839792d2)
+
+<h2>Search button :</h2>
+
+![Screenshot (55)](https://github.com/akshayrai14/SearchMovie/assets/109916723/65b0c389-fc83-4744-a598-b7172d903faf)
+
+<h2>Another movie being fetched and shown :</h2>
+
+![image](https://github.com/akshayrai14/SearchMovie/assets/109916723/918dcb6f-0239-46ab-a4f3-fb92acd8d994)
+
+
+
+
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
